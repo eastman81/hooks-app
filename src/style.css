@@ -1,0 +1,19 @@
+body {
+  background: #64b2cd;
+}
+
+.app {
+  padding-top: 20px; 
+}
+
+.itemList {
+  background:white;
+  padding: 5px;
+  margin: 5px;
+  align-items: center;
+}
+
+#form {
+  padding: 5px;
+  align-items: center;
+}
