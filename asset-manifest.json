@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hooks-app/static/css/main.9be421e6.chunk.css",
+    "main.js": "/hooks-app/static/js/main.6adf5f8b.chunk.js",
+    "main.js.map": "/hooks-app/static/js/main.6adf5f8b.chunk.js.map",
+    "runtime-main.js": "/hooks-app/static/js/runtime-main.de208bba.js",
+    "runtime-main.js.map": "/hooks-app/static/js/runtime-main.de208bba.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/hooks-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.b891de37.chunk.js": "/hooks-app/static/js/2.b891de37.chunk.js",
+    "static/js/2.b891de37.chunk.js.map": "/hooks-app/static/js/2.b891de37.chunk.js.map",
+    "index.html": "/hooks-app/index.html",
+    "precache-manifest.583cc3ef8bb61690d0853d5acdfcebca.js": "/hooks-app/precache-manifest.583cc3ef8bb61690d0853d5acdfcebca.js",
+    "service-worker.js": "/hooks-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/hooks-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.9be421e6.chunk.css.map": "/hooks-app/static/css/main.9be421e6.chunk.css.map",
+    "static/js/2.b891de37.chunk.js.LICENSE.txt": "/hooks-app/static/js/2.b891de37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de208bba.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.b891de37.chunk.js",
+    "static/css/main.9be421e6.chunk.css",
+    "static/js/main.6adf5f8b.chunk.js"
+  ]
+}
